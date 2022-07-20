@@ -1,11 +1,3 @@
-
-__NAME__ = "Flask_Google_ReCaptcha"
-__version__ = "0.1.0"
-__license__ = "MIT"
-__author__ = "Bruno Lima"
-__copyright__ = "(c) 2022 Bruno Lima"
-
-
 from markupsafe import Markup
 import requests
 

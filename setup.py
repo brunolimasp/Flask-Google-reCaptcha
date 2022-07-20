@@ -4,9 +4,9 @@ with open("README.md", "r") as fh:
     readme = fh.read()
 
 setup(
-    name='Flask_Google_reCaptcha',
+    name='Google-reCaptcha-flask',
     version='0.0.1',
-    url='https://github.com/brunolimasp/Flask_Google_reCaptcha',
+    url='https://github.com/brunolimasp/Flask-Google-reCaptcha',
     license='MIT License',
     author='Bruno Augusto',
     long_description=readme,

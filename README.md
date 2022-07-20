@@ -12,7 +12,7 @@ pip install twine
 #### Installation
 Clone this repo to your local machine using:
 ```
-git clone https://github.com/brunolimasp/Flask_Google_reCaptcha.git
+git clone https://github.com/brunolimasp/Google-reCaptcha-Flask.git
 ```
 ## Features
 - File structure for PyPI packages
