@@ -17,8 +17,8 @@
     GOOGLE_RECAPTCHA_ENABLED=True,
     GOOGLE_RECAPTCHA_SITE_KEY="SUA SITE CHAVE",
     GOOGLE_RECAPTCHA_SECRET_KEY="SUA CHAVE SECRETA"
-))
-recaptcha.init_app(app)
+    ))
+    recaptcha.init_app(app)
     
 ## Exemplo front-end
 ### Adicione no seu formulário : **{{ recaptcha }}**
